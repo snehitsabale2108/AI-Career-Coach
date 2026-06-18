@@ -1,0 +1,30 @@
+# ─── Python ───────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ─── Virtual environment ──────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ─── Secrets ──────────────────────────────────
+.env
+
+# ─── OS files ─────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─── Streamlit ────────────────────────────────
+.streamlit/secrets.toml
+
+# ─── Uploaded resumes ─────────────────────────
+uploads/
+*.pdf
