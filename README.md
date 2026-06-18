@@ -1,7 +1,7 @@
 # 🤖 AI Career Coach
 
 An AI-powered career assistant built with Streamlit & Groq LLaMA 3.3 70B — upload your resume and instantly get ATS analysis, JD matching, interview prep, cover letters, career roadmaps, and LinkedIn summaries.
-
+ 
 ---
 
 ## ✨ Overview
